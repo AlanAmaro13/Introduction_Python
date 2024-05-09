@@ -17,4 +17,16 @@ Hey there! Here's a complete Python Course for begginers, it's totally done in C
 * * Inheritance
 * * Iterators
 * * Scope
-* Python Modules: Datetime, math
+* Python Modules:
+* * Datetime
+* * Math
+* * JSON
+* * RegEx
+* * PIP
+* * Try - Except
+* * User Input
+* File Handing
+* Matplotlib
+* Introduction to Machine Learning
+* Arduino on Python
+* Threads
