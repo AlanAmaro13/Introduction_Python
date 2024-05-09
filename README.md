@@ -14,9 +14,9 @@ Hey there! Here's a complete Python Course for begginers, it's totally done in C
 * Functions
 * Arrays
 * OOP - Object oriented Programming
-* * Inheritance
-* * Iterators
-* * Scope
+ * Inheritance
+ * Iterators
+ * Scope
 * Python Modules:
 * * Datetime
 * * Math
